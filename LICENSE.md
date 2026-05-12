@@ -1,4 +1,4 @@
-#  
+#  Enhance Todoist for macOS with premium Script for Todoist for macOS - auto-sync and widgets, the #1 script. Includes auto-sync and widgets for a smoother experience.
 
 
 
